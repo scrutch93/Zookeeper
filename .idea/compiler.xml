@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Zookeeper.Topics-Data_types-Fix_the_program.main" target="11" />
+      <module name="Zookeeper.Topics-Data_types-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Overview_of_the_basic_program-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Overview_of_the_basic_program-Your_name.main" target="11" />
+      <module name="Zookeeper.Topics-Standard_output-Correct_the_code.main" target="11" />
+      <module name="Zookeeper.Topics-Standard_output-Print_a_triangle.main" target="11" />
+      <module name="Zookeeper.Topics-Standard_output-Print_code.main" target="11" />
+      <module name="Zookeeper.Topics-Standard_output-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Standard_output-Tic-Tac-Toe.main" target="11" />
+      <module name="Zookeeper.util.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
